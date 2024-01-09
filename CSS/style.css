@@ -1,0 +1,72 @@
+.form-group{
+   padding: 12px;
+   font-size:20px;
+}
+input[type="text"],input[type="number"]{
+  width:300px;
+  padding: 10px;
+  font-size: 18px;
+}
+input#searchBtn{
+  margin-left: 675px;
+  width: 300px;
+  padding: 6px;
+  margin-top: 70px;
+}
+select{
+  width:330px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.btn{
+  background-color: #258428;
+  padding: 9px 16px;
+  color:white;
+  border-radius: 4px;
+  margin-left: 12px;
+  font-size: 16px;
+  }
+  #btn3{
+    background-color: #258428;
+    padding: 9px 16px;
+    color:white;
+    border-radius: 4px;
+    font-size: 16px;
+    
+  }
+  #btn4{
+    background-color: #c13939;
+    padding: 9px 16px;
+    color:white;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  a:link {
+    color: white;
+  }
+  #playerTable{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin-top: 5px;
+    margin-left: 15px;
+    width: 75%;
+  }
+  #playerTable td, #playerTable th {
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin: 10px;
+  }
+  
+  #playerTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #535b58;
+    color: rgb(6, 6, 6);
+  }
+.container{
+    margin-left: 300px;
+    margin-right: -10px;
+    margin-top: 50px;
+}
